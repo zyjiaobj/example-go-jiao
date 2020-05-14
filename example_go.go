@@ -12,6 +12,10 @@ func Setup() {
 
 }
 
+func Other() {
+    result = awesome.Frown()
+}
+
 func GetResult() string {
 
     /*

@@ -3,7 +3,7 @@ package awesome
 func Smile() string {
 
     // comments
-    return ":D"
+    return ":)"
 
 }
 
