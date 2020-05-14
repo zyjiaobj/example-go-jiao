@@ -1,0 +1,3 @@
+mode: atomic
+github.com/codecov/example-go/example_go.go:7.14,13.2 1 1
+github.com/codecov/example-go/example_go.go:15.25,23.2 1 1

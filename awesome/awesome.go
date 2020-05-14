@@ -3,7 +3,7 @@ package awesome
 func Smile() string {
 
     // comments
-    return ":)"
+    return ":D"
 
 }
 
@@ -15,4 +15,8 @@ func Frown() string {
 
     return ":("
 
+}
+
+func Sad() string {
+    return ";("
 }
