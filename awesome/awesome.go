@@ -2,17 +2,17 @@ package awesome
 
 func Smile() string {
 
-    // comments
-    return ":)"
+	// comments
+	return ":)"
 
 }
 
 func Frown() string {
 
-    /*
-    large comment
-    */
+	/*
+	   large comment
+	*/
 
-    return ":("
+	return ":("
 
 }
