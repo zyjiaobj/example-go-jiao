@@ -23,6 +23,12 @@ func UncoveredTest() int {
 	return x
 }
 
+func UncoveredTest2() int {
+	x := 1
+	x = x + 1
+	return x
+}
+
 func CoveredTest(num int) int {
 	x := num + num
 	return x
